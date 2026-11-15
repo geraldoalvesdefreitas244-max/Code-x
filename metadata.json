@@ -1,0 +1,6 @@
+{
+  "name": "Code X",
+  "description": "IDE Android profissional no celular com assistente Code X AI, central multi-IA, editor de codigo, monitor de hardware e compilador APK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

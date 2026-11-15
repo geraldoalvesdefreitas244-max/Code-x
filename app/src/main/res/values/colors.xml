@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="codex_obsidian">#FF09090B</color>
+    <color name="codex_surface">#FF111115</color>
+    <color name="codex_crimson">#FFE50914</color>
+    <color name="codex_white">#FFF8FAFC</color>
+</resources>

@@ -1,0 +1,14 @@
+{
+  "name": "codex-gradle-build-server",
+  "version": "1.0.0",
+  "description": "Servidor real de compilação Android Gradle e geração de APKs para o Code X Mobile IDE.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
